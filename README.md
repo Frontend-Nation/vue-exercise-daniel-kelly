@@ -1,3 +1,11 @@
+# Client-Side and Server-Side Form Validation in Nuxt
+
+[Frontend Nation](https://frontendnation.com/) Forge Day Exercise
+
+Search the project for `TODO` in order to find exact locations where new code is needed to complete the exercise.
+
+use the steps below to install deps and run the development server. This is just a simple Nuxt project.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
