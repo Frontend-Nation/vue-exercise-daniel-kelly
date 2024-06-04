@@ -4,7 +4,9 @@
 
 Search the project for `TODO` in order to find exact locations where new code is needed to complete the exercise.
 
-use the steps below to install deps and run the development server. This is just a simple Nuxt project.
+[Exercise Instructions can be found here](https://vueschool.notion.site/5-15pm-CEST-Client-Side-and-Server-Side-Form-Validation-in-Nuxt-Daniel-Kelly-f33a6628cfec45ef8ede4980ab813c77?pvs=4)
+
+Use the steps below to install deps and run the development server. This is just a simple Nuxt project.
 
 # Nuxt 3 Minimal Starter
 
